@@ -6,15 +6,15 @@ GreenLexicon is a comprehensive platform designed to promote sustainability and 
 
 ## Key Features
 
-1. **Energy Consumption Analysis (Data Analytics):**
+1. **[Energy Consumption Analysis (Data Analytics):](https://github.com/GunaPalanivel/energyanalyzer.git)**
 
    - Provides users with a personalized dashboard to identify energy consumption patterns, pinpoint inefficiencies, and encourage energy-saving habits.
 
-2. **Amazon Product Sustainability Score (NLP+LLM, BERT Model):**
+2. **[Amazon Product Sustainability Score (NLP+LLM, BERT Model):](https://github.com/GunaPalanivel/sustainablescore.git)**
 
    - An AI-driven scoring system that analyzes product descriptions to calculate a sustainability score, utilizing state-of-the-art NLP techniques and the BERT language model.
 
-3. **Brand Sustainability Profiles (LLM, Web Scraping):**
+3. **[Brand Sustainability Profiles (LLM, Web Scraping):](https://github.com/GunaPalanivel/sustainablebrands.git)**
 
    - Compiles data on corporate sustainability practices through advanced Large Language Model (LLM) capabilities and web scraping, offering concise brand sustainability profiles.
 
