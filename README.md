@@ -4,6 +4,8 @@
 
 GreenLexicon is a comprehensive platform designed to promote sustainability and environmental awareness. It leverages advanced data analytics, natural language processing (NLP), and computer vision technologies to empower users with actionable insights and tools for making eco-friendly decisions.
 
+## [Power Point Presentation](https://docs.google.com/presentation/d/1D0pjO6HqTgpijJablJLPavPj83ef0WSP/edit?usp=sharing&ouid=115204430181103761560&rtpof=true&sd=true)
+
 ## Key Features
 
 1. **[Energy Consumption Analysis (Data Analytics):](https://github.com/GunaPalanivel/energyanalyzer.git)**
