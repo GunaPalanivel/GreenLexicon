@@ -197,3 +197,32 @@ html {
 footer > img {
   width: 100%;
 }
+
+.external-link-container {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 1000; /* Ensures the button stays on top of other content */
+}
+
+.external-link-button {
+  text-decoration: none; /* Removes underline from links */
+}
+
+.primary-button {
+  padding: 8px 24px; /* Adjusts the padding to better fit the oval shape */
+  background-color: #003329; /* Professional blue color, adjust as needed */
+  color: white;
+  border: none;
+  border-radius: 20px; /* Creates an oval shape */
+  font-size: 16px; /* Professional font size */
+  font-family: Arial, sans-serif; /* Professional font family */
+  cursor: pointer;
+  outline: none; /* Removes outline for a clean look */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.primary-button:hover {
+  background-color: #003329; /* Slightly darker blue for hover effect */
+}
