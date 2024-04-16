@@ -1,5 +1,7 @@
 # GreenLexicon
 
+# [Live Website](https://green-lexicon.vercel.app/)
+
 ## Introduction
 
 GreenLexicon is a comprehensive platform designed to promote sustainability and environmental awareness. It leverages advanced data analytics, natural language processing (NLP), and computer vision technologies to empower users with actionable insights and tools for making eco-friendly decisions.
