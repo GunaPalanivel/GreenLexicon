@@ -18,7 +18,11 @@ GreenLexicon is a comprehensive platform designed to promote sustainability and 
 
    - Compiles data on corporate sustainability practices through advanced Large Language Model (LLM) capabilities and web scraping, offering concise brand sustainability profiles.
 
-4. **Waste Classification Guide (Computer Vision, CNN, TensorflowJs):**
+4. **[Green Lexicon AI Chatbot:](https://github.com/GunaPalanivel/GreenLexicon-Chat-Bot.git)**
+
+   - A seamless experience as you explore answers to all your questions about sustainability and environmental consciousness
+
+5. **Waste Classification Guide (Computer Vision, CNN, TensorflowJs):**
    - A user-friendly guide that incorporates a custom-trained Convolutional Neural Network (CNN) to identify and sort waste, promoting correct disposal procedures and environmental conservation.
 
 ## Tech Stack
