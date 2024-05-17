@@ -1,12 +1,18 @@
 # GreenLexicon
 
-# [Live Website](https://green-lexicon.vercel.app/)
-
 ## Introduction
 
 GreenLexicon is a comprehensive platform designed to promote sustainability and environmental awareness. It leverages advanced data analytics, natural language processing (NLP), and computer vision technologies to empower users with actionable insights and tools for making eco-friendly decisions.
 
 ## [Power Point Presentation](https://docs.google.com/presentation/d/1D0pjO6HqTgpijJablJLPavPj83ef0WSP/edit?usp=sharing&ouid=115204430181103761560&rtpof=true&sd=true)
+
+## Recognization and Awards
+
+My team, Mavericks, consisting of myself, [Guna Palanivel](https://www.linkedin.com/in/guna-palanivel/), along with my teammates [Gokul Selvaraj](https://www.linkedin.com/in/gokulselvaraj4/), [Rakshitha S](https://www.linkedin.com/in/rakshitha-selladurai/), and [Bharani V](https://www.linkedin.com/in/bharani-v-20720b276/) participated in the SustainaVerse: Coding a Sustainable Universe held at [B. S. Abdur Rahman Crescent Institute of Science and Technology, Chennai, Tamil Nadu](https://crescent.education/), Chennai on 16/04/2024 to 17/04/2024. And guess what? We clinched the 1st prize, along with a cool cash prize of INR 5000 Via cheque, presented by Dr. Karthikeyan Ramalingam, Dean of Student Affairs.
+
+## To Know More About Our Project
+
+Please find the LinkedIn post [here.](https://www.linkedin.com/posts/guna-palanivel_sustainability-greentech-dataanalytics-activity-7197289980191285249-uGzt?utm_source=share&utm_medium=member_desktop)
 
 ## Key Features
 
